@@ -53,7 +53,7 @@
     "generate_hex": true,
     "libraries": [
         {
-            "branch": "4ac2a3a8cf4dc9aac51f56f4b4a8211b7d831912",
+            "branch": "b79d6e0c33bfdf006377a4d2d1e69b48e5c8a8e0",
             "name": "codal-core",
             "type": "git",
             "url": "https://github.com/thomasjball/codal-core"
